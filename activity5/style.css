@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+}
+.Instagram-button{
+    border: none;
+    height: 30px;
+    width: 150px;
+    color:white;
+    font-family: verdana;
+    border-radius: 5px;
+    background-color: black;
+}
+
+.youtube{
+    color: white;
+    background-color: brown !important;
+}
+
+footer{
+    margin-top: 150px;
+    text-align: center;
+}
